@@ -1,0 +1,7 @@
+[project]
+ name = "fourd-vitru-dor-06"
+ version = "0.1.0"
+ description = "POC demonstrativa e independente para a Dor 06"
+ requires-python = ">=3.11"
+ [tool.setuptools]
+ package-dir = {"" = "src"}

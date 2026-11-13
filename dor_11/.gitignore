@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.env
+saida_demo/
+saida*/
+*.xlsx
+*.xls
+**/originais/**
+**/privado/**
